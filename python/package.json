@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@modelcontextprotocol/server-google-maps": "^0.6.2"
+  }
+}
