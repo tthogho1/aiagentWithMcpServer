@@ -38,7 +38,3 @@ def get_airport_info(airport):
 #  'airport_flights_url': '/airports/RJNA/flights',
 #  'alternatives': []}
 #
- 
-if __name__ == '__main__':
-    airport = 'RJNA'
-    get_airport_info(airport)
